@@ -39,9 +39,35 @@ I usually saving my work using **`F3`**, and close the document using **`F2`**
 
 Well, sort of.. Do you mean "How to copy and paste in nano"?
 
-#### C. Copy and Paste in nano editor
+#### C. Copy and Paste in nano editor (and cutting)
+##### Copy and Paste
 There are 2 ways to do it --_for I don't know what else, Im still dummy you remember?_
   1. The primitive way: You can copy and paste using regular hotkey, _IF_, you **`block`** _(click and drag)_ the text on the terminal or other app **`using mouse`**, copy it using **`Cmd+C`** and paste it using **`Cmd+V`**.
   2. The coder way: hold **`SHIFT`**, press **`right arrow`** to block some text inside nano, then press **`Esc+6`** to copy, last press **`Ctrl+U`** to paste.
 
-...
+##### Cut and Paste
+Well, I'd love to cut in nano. Just press **`Ctrl+K`** and wow! It's cutting a whole line! I'm amazed at the first time using it.
+
+Cut
+
+Cut more
+
+Cut few more times, many lines cutted
+
+and.. where's the text gone? --Well, its in the _cutbuffer_. Same when you copy using **`Alt+6`**, the copied text also in the _cutbuffer_.
+
+Paste it using **`Ctrl+U`**. Done.
+
+>Okay, I get it. Now, if I want to make some file not in current directory, do I have to _cd_ to the target directory first?
+
+(Ow, what a question, are you advance user or what? _Damn_, I have to _Google_ it now..)
+
+Good questions, answer is: you don't have to change directory --thanks _Google_.
+
+You can make a file with 3 ways --_again, for I don't know what else..._
+   1. `nano filename`
+      - create "filename" in current directory. You can spesify file extension too, like: filename.txt, filename.sh, etc
+   2. `nano /Document/FolderA/FolderAa/FolderAa1/filename`
+      - create "filename" in /Document/FolderA/FolderAa/FolderAa1/ directory.
+   3. `nano` --then `drag a desired folder from Finder to the terminal`, then type the desired "filename"
+      - create "filename" in folder you've dragged to the terminal
