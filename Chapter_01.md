@@ -40,7 +40,7 @@ I usually saving my work using **`F3`**, and close the document using **`F2`**
 Well, sort of.. Do you mean "How to copy and paste in nano"?
 
 #### C. Copy and Paste in nano editor
-There are 2 ways to do it --_for I'm don't know what else, Im still dummy you remember?_
+There are 2 ways to do it --_for I don't know what else, Im still dummy you remember?_
   1. The primitive way: You can copy and paste using regular hotkey, _IF_, you **`block`** _(click and drag)_ the text on the terminal or other app **`using mouse`**, copy it using **`Cmd+C`** and paste it using **`Cmd+V`**.
   2. The coder way: hold **`SHIFT`**, press **`right arrow`** to block some text inside nano, then press **`Esc+6`** to copy, last press **`Ctrl+U`** to paste.
 
