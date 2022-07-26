@@ -71,3 +71,32 @@ You can make a file with 3 ways --_again, for I don't know what else..._
       - create "filename" in /Document/FolderA/FolderAa/FolderAa1/ directory.
    3. `nano` --then `drag a desired folder from Finder to the terminal`, then type the desired "filename"
       - create "filename" in folder you've dragged to the terminal
+
+#### D. Cheatshit Please!
+Okay, impatient is good when learning...
+Here are few shortcuts I used the most:
+|**You want to...**|**Nano way**|**Other way**|
+|---|---|---|
+|Help! (manuals)              |**F1** or **Ctrl+G**          |                |
+|Select text                  |**Hold shift+arrow key**  |Click and drag using mouse   |
+|Select text cooler way       |**Esc+A** or **Ctrl+6**       |Click and drag using mouse   |
+|Cancel operation             |**Ctrl+C**                |                             |
+|Copy blocked text            |**Esc+6**                 |Cmd+C                        |
+|Cut blocked text             |**Ctrl+K** or **F9**          |~~Cmd+X~~                    |
+|Cut a text line              |**Ctrl+K** or **F9** w/out blocking |cannot                       |
+|Paste (works with copy/cut)  |**Ctrl+U** or **F10**         |Cmd+V                        |
+|Find a text                  |**Ctrl+W**                |Cmd+F                        |
+|Find next                    |**Alt+W** or **F6**           |Cmd+G                        |
+|Find previous                |**Alt+Q**                 |Cmd+Shift+G                  |
+|Go to line/collumn           |**Esc+G**                 |                             |
+|Replace text                 |Ctrl+\ or **Esc+R**       |                             |
+|Undo                         |**Esc+U**                 |~~Cmd+Z~~                    |
+|Redo                         |**Esc+E**                |~~Cmd+Shift+Z~~              |
+|Insert text from other file  |**Ctrl+R**                |Open other file with text editor, copy it, paste it... |
+|Save file                    |**F3** or **Ctrl+O**          |~~Cmd+S~~ (is save terminal output)...       |
+|Exit (with or w/out saving)  |**F2** or **Ctrl+X**          |~~Cmd+W or Cmd+Q~~ (will screwed up your work)...       |
+|Auto complete<sup>*</sup>    |**Esc+U**                 |                            |
+|Execute terminal command<sup>**</sup>     |**Ctrl+T**   |                             |
+
+<sup>*</sup> Must enable it in nanorc
+<sup>**</sup> Hey! What is it? --well I'll cover it in the next chapter 👌
