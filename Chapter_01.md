@@ -99,4 +99,5 @@ Here are few shortcuts I used the most:
 |Execute terminal command<sup>**</sup>     |**Ctrl+T**   |                             |
 
 <sup>*</sup> Must enable it in nanorc
+
 <sup>**</sup> Hey! What is it? --well I'll cover it in the next chapter 👌
