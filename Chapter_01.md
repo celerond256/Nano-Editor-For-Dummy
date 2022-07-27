@@ -92,7 +92,8 @@ Here are few shortcuts I used the most:
 |Replace text                 |Ctrl+\ or **Esc+R**       |                             |
 |Undo                         |**Esc+U**                 |~~Cmd+Z~~                    |
 |Redo                         |**Esc+E**                |~~Cmd+Shift+Z~~              |
-|Comment (add # before text)  |Esc+3 block some text line for multi commenting | Manually add # before text  |
+|Refresh                      |**Ctrl+L**               |                             |
+|Comment (add # before text)  |**Esc+3** block some text line for multi commenting | Manually add # before text  |
 |Insert text from other file  |**Ctrl+R**                |Open other file with text editor, copy it, paste it... |
 |Save file                    |**F3** or **Ctrl+O**          |~~Cmd+S~~ (is save terminal output)...       |
 |Exit (with or w/out saving)  |**F2** or **Ctrl+X**          |~~Cmd+W or Cmd+Q~~ (will screwed up your work)...       |
